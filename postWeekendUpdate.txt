@@ -1,15 +1,24 @@
 # POST WEEKEND UPDATE
 
-1. AboutCode had its own "round table conference", much like the Council of Elrond.
+1. AboutCode had its own "round table conference", much like the Council of Elrond. Below are the Recommendations of the
+Round-Table.
 
-2. We are now fairly certain that we are being trolled. (One of us has said that we are being "trolled pretty massively", 
-but that is a minority opinion).
+2. We are now fairly certain that we are being trolled (One of us has said that we are being "trolled pretty massively", 
+but that is a minority opinion) on reddit.
 
 (-) The nature of some of the comments (to paraphrase one of them - "you cannot find loopholes in a book using optimization", 
 "you are not communicating well", et cetera) do not seem to be from a place of constructive criticism. It is fairly clear
-that these people are trolling our post.
+that these people are trolling our posts.
 
-(-) There is no reason to believe that the trolling won't continue as long as the discussion is only on reddit.
+(-) There is no reason to believe that the trolling won't continue as long as the discussion is only on reddit. In fact, given
+that we have said negative things about Trump, Putin, certain professors at Berkeley, America's role in the post World
+War II world, et cetera, there's no reason to believe that /u/AboutCode will be trolled as long as it is around.
+
+(-) The only alternative option, then, is to expand the space of discussion beyond reddit.
+
+3. We are, of course, fairly certain that there is a plot-hole. What's baffling is why there continues to be a 
+committed opposition to this idea - other than the fact that everybody is doing 10 minutes of reading on Quora,
+and proclaimig themselves to be the masters of the subject at hand.
 
 4. Our first instinct was to abandon this discussion entirely. However, in view of the fact that there are other ideas
 we want to discuss, we are going to give people who are still interested a chance to tell us what the remaining counter-
@@ -20,4 +29,4 @@ shutdown, et cetera.
 on how to run the code. Most likely, it will just be some python code, and so you will just need to download 
 Python for Windows, Mac or other platform.) 
 
-6. Run the code and then we will talk about next steps.
+6. Run the code in the /src directory (not yet created) and then we will talk about next steps.
