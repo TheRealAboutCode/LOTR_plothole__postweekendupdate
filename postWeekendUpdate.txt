@@ -30,3 +30,8 @@ on how to run the code. Most likely, it will just be some python code, and so yo
 Python for Windows, Mac or whatever other platform you are using.) 
 
 6. Run the code in the /src directory (not yet created) and then we will talk about next steps.
+
+ADDITIONAL NOTE:
+
+(1) We were going to send out this post after the weekend, but because our reddit posts have gotten trolled and people are only
+seeing the post-trolled reddit posts, we are sending out this Post-Weekend a day ahead of time.
