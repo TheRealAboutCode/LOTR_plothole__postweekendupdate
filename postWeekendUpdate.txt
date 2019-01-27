@@ -27,6 +27,6 @@ shutdown, et cetera.
 
 5. We will upload some code to the src directory in a few days. Download the code and run it. (We will have instructions
 on how to run the code. Most likely, it will just be some python code, and so you will just need to download 
-Python for Windows, Mac or other platform.) 
+Python for Windows, Mac or whatever other platform you are using.) 
 
 6. Run the code in the /src directory (not yet created) and then we will talk about next steps.
