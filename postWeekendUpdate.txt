@@ -1,0 +1,23 @@
+# POST WEEKEND UPDATE
+
+1. AboutCode had its own "round table conference", much like the Council of Elrond.
+
+2. We are now fairly certain that we are being trolled. (One of us has said that we are being "trolled pretty massively", 
+but that is a minority opinion).
+
+(-) The nature of some of the comments (to paraphrase one of them - "you cannot find loopholes in a book using optimization", 
+"you are not communicating well", et cetera) do not seem to be from a place of constructive criticism. It is fairly clear
+that these people are trolling our post.
+
+(-) There is no reason to believe that the trolling won't continue as long as the discussion is only on reddit.
+
+4. Our first instinct was to abandon this discussion entirely. However, in view of the fact that there are other ideas
+we want to discuss, we are going to give people who are still interested a chance to tell us what the remaining counter-
+-arguments are. In fact, the other ideas we want to discuss are far more important - example: how to stop the government
+shutdown, et cetera.
+
+5. We will upload some code to the src directory in a few days. Download the code and run it. (We will have instructions
+on how to run the code. Most likely, it will just be some python code, and so you will just need to download 
+Python for Windows, Mac or other platform.) 
+
+6. Run the code and then we will talk about next steps.
