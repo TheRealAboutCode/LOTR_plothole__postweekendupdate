@@ -35,3 +35,20 @@ ADDITIONAL NOTE:
 
 (1) We were going to send out this post after the weekend, but because our reddit posts have gotten trolled and people are only
 seeing the post-trolled reddit posts, we are sending out this Post-Weekend a day ahead of time.
+
+WHAT WILL FOLLOW WILL BE A SERIES OF NOTES -- KIND OF LIKE BLOG POSTS --> THIS IS JUST FOR ABOUTCODE TO TRACK ITS OWN STATUS
+
+((Note#1) Date: January 27, 2019) ::=> This discussion has been nothing less than exhausting. It would be far better to just discuss this with friends and really talk about this offline. Still, we don't want to give up our own little Quest to verify this plothole. We have already got some code written up. We will continue to work on our code. 
+
+((Note#2) Date: January 28, 2019) ::=> Here's a poem, dear Friends, for us to mark the beginning of this new journey.
+
+(From "The Fellowship of the Ring", page 46)
+
+The Road goes ever on and on,
+Down from the door where it began.
+Now far ahead the Road has gone,
+And I must follow, if I can,
+Pursuing it with eager feet,
+Until it joins some larger way
+Where many paths and errands meet.
+And whither then? I cannot say.
