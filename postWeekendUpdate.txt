@@ -36,7 +36,8 @@ ADDITIONAL NOTE:
 (1) We were going to send out this post after the weekend, but because our reddit posts have gotten trolled and people are only
 seeing the post-trolled reddit posts, we are sending out this Post-Weekend a day ahead of time.
 
-WHAT WILL FOLLOW WILL BE A SERIES OF NOTES -- KIND OF LIKE BLOG POSTS --> THIS IS JUST FOR ABOUTCODE TO TRACK ITS OWN STATUS
+WHAT WILL FOLLOW WILL BE A SERIES OF NOTES -- KIND OF LIKE BLOG POSTS --> THIS IS JUST FOR ABOUTCODE TO TRACK ITS OWN STATUS, BUT
+THIS IS ALSO OTHER PEOPLE CAN ALSO SEE WHAT HAS BEEN GOING ON WITH THIS DISCUSSION
 
 ((Note#1) Date: January 27, 2019) ::=> This discussion has been nothing less than exhausting. It would be far better to just discuss this with friends and really talk about this offline. Still, we don't want to give up our own little Quest to verify this plothole. We have already got some code written up. We will continue to work on our code. 
 
