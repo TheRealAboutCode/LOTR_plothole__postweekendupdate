@@ -52,8 +52,8 @@ discuss this with friends and really talk about this offline. Still, we don't wa
 this plothole. We have already got some code written up - much of it is based on other people's code. 
 We will continue to work on our code. Some commenters have been helpful and have provided excellent feedback. 
 
-Our current plan is that we will point commenters to specific parts of this GitHub repository so that we can have a 
-reasonable conversation -- without getting side tracked by all the trolling. Here's hoping it will work.
+Our current plan is that we will point specific helpful commenters to specific parts of this GitHub repository so that we can 
+have a reasonable conversation -- without getting side tracked by all the trolling. Here's hoping it will work.
 
 ((Note#2) Date: January 28, 2019) ::=> Here's a poem, dear Friends, for us to mark the beginning of this new journey.
 
